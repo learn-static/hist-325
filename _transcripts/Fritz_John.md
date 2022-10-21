@@ -1,5 +1,5 @@
 ---
-object-id: Fritz_Lucas
+object-id: Fritz_John
 title: John Fritz Interview
 date-interviewed: September 11, 2022
 location: Moscow, ID
