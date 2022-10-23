@@ -1,0 +1,125 @@
+timestamp,speaker,words,tags
+,Maya Birdsong,"My name's Maya Birdsong and I'll be interviewing Wayne McProud in the Vandal Lounge in the Pitman Center on September 28th. So, my first question was how would you describe yourself in the 60s?",values
+,Wayne McProud,Student.,values
+,MB,Student.,values
+,WM,"A high school student from 1960 to 63, a university student from 63 to 67, a graduate student from 67 to about 71.",values
+,MB,Definitely a student for the whole decade then. How would you characterize your values at this time?,values
+,WM,Teenage-ish.,values
+,MB,Okay.,values
+,WM,Just a teenager.,values
+,MB,Makes sense. What music or artists were you listening to in the 60s and how do you think music affected social change?,music
+,WM,"Henry Mancini ... was a big one. The 60s was The Beatles of course, The Stones, that kind of music.",music
+,MB,"Perfect. What was the broader culture like in your community, were there any, were you aware of any big pushes for change in your town?",sociallife
+,WM,"The 60s was the age of the anti-Vietnam War, it was the age of the civil rights movement. Moscow was pretty much insulated from it, at least the circles I ... I was an ag student so the circles I was in ... there was no political activism of any kind. The first time I hit any political activism was when I got to Montana State, they had quite a bit more political activism than they had here at Idaho.",sociallife;socialmovements
+,MB,"Awesome. OK, were there any famous figures, political or otherwise, that stood out to you during this time?",culture
+,WM,"You mean here, that came to Moscow or just ...?",culture
+,MB,Just in general,culture
+,WM,"Just in general. ...  Course there's Kennedy, he was the president and was assassinated, Johnson then became president and was basically run out of office because of Vietnam. Frank Church was the senator from Idaho who gained fame for the Church Committee. That's pretty much the political aspects of it. A couple of athletes maybe of interest, Gus Johnson who played basketball here at Idaho, later went on to become ... I think one of the recognized best basketball players of all time.",culture
+,MB,"Oh wow, I didn't know that.",culture
+,WM,"And then they had a football player, Ray McDonald, who, Gus Johnson and Ray McDonald were probably two of the best athletes that ever played at Idaho.",culture
+,MB,"Awesome. What historical events do you remember hearing about the most at this time, did they impact your own life and if so, how?",news
+,WM,"Course the assassination of Kennedy. In fact, I was, I guess this is an invitation to reminisce, I was taking a botany class up at the science building, taking a test. John McMullen was my professor, I knew John pretty well, my dad was a university prof up here so I knew a lot of the profs, and somebody came in the office and whispered in his ear, and you could see his face go white ... he didn't say anything. ",news
+,WM,"I finished the test and handed it in and he called me aside and he said, 'Wayne the president's just been shot.' And then I was walking up past the art and architecture building, up near the admin building, and got word that ... Kennedy had died, so that would have been one famous memory I had. Course the other one, this is probably the most significant event of the 60s, was Neil Armstrong walking on the moon, and I would venture to guess that's going to be the most significant event of the 20th century.",news;culture
+,MB,Do you remember where you were during the-that time?,news
+,WM,"I was in Graduate School at Bozeman ... and it was the 20th of July 1969. I remember watching television, watch Neil Armstrong step out on the moon and we walked outside, and it was twilight, and you could see the moon and you'd look up there and think 'we got a man walking up there.'",news
+,MB,I can't imagine ever going to the moon.,news
+,WM,"So ... And of course, then going to the moon that reminds me of the honeymooners on television 'I'm going to send you to the moon', but anyway that was Jackie Gleeson, but anyway.",news;culture
+,MB,"What were your thoughts on the Vietnam War, did it change how you felt about America as a global leader?",vietnam
+,WM,I was in the military.,vietnam
+,MB,"Oh, you were?",vietnam
+,WM,"So, I supported it... I served my two years, I was a 2-year wonder and then I got out ... and yeah, I was in the military so basically supported it.",vietnam
+,MB,"So what social movements were you aware of at the time; how did you, your parents or your community feel about them?",socialmovements
+,WM,"Like I said the 60s was mainly just being a student, growing up doing student things. Moscow, at least the circle that I operated in and the circle my parents operated in, was not politically active. So ...  outside of seeing news events like disruption here there ... everywhere. The only time I ran into difficulty was once I was in the military, there was a couple of instances where people were... to put it generally disrespectful.",socialmovements;sociallife
+,MB,"OK, what sort of things were they doing that were disrespectful?",socialmovements
+,WM,"One of the men that I remember, this occurred down at Fort Rucker, Alabama, where I was Second Lieutenant ... we had the job of training, ... guess they were National Guard, units from Alabama. And, I remember a number were lawyers ... and they didn't want to be there, they didn't want to go to Vietnam War, so they joined the National Guard. And... You know, you can tell when people are just being passively aggressive whenever you try to, we were trying to teach; see I was in a [indistinguishable] helicopters, and you try to teach procedures and safety features and all sorts.",socialmovements;vietnam
+,WM,"Not only were they not interested they were saboteurs. One event I remember I was trying to explain how to hot rig a helicopter and a pair of goggles went [goggle noise] out into the bushes and then one of these ... lawyer types said lieutenant, says I can't do anything cause I don't have any goggles. I felt like telling him go back in the brambles and get 'em, but they told us to be respectful, so I was.",socialmovements;vietnam
+,MB,"Yeah, when people just aren't interested, it makes it really hard to do anything. What big culture changes did you see between the 60s and the 70s?",change
+,WM,"Well ... see I went from being a student to working in industry. And you know the ideal life- lifestyle of a student is considerably different than the ... dog eat dog world of industry, so that would be a big cultural change, but I don't think that had anything to do with the war in particular or the peace movement, it was just a movement in your life's activities.",change
+,MB,All righty. And then have you changed your mind on any big issues since the 60s?,values
+,WM,"Well, I don't know vote for Boise State anymore so  ... not really  I consider myself to be the same basic person I was then, hopefully I buttressed a few other rough edges, I buffed them down might be a better way of saying it.",values
+,MB,"OK and then the last question I had for you was, what do you think was the best aspect of the 60s and what do you wish American Society still possessed from that time?",culture;change;values
+,WM,"Again, my experience was completely academic and school oriented, and it was a comradery. I suppose you found the same thing; you've got a core group of people that you consider good friends and enjoy being with. That diminishes as you get older, it  you know you're fortunate to keep a few. In college I was in a fraternity, oh you had 60 or 70.",culture;change;values
+,MB,What fraternity were you in?,culture;values
+,WM,Farmhouse.,culture;values
+,MB,"Oh nice, I'm in Kappa Alpha Theta.",culture;values
+,WM,"So, you're a KAT.",culture;values
+,MB,Yes. Did you enjoy your fraternity experience here?,culture;values
+,WM,"Sure, sure, sure yeah. We had active some of the old fraternity brothers there, getting fewer and fewer every year, you know in the, in the obituaries, but ... yeah that's ... they become a family.",culture;values;family
+,MB,Do you think fraternity life has changed a lot since you've been in school?,culture;change;values
+,WM,"I suspect so, I'm not involved with the fraternities anymore, so I don't know what's going on, I do know here at Idaho, Farmhouse was a vibrant active fraternity at that time and now its disbanded.",culture;change;values
+,MB,I think I heard that they were going to try to come back in the next couple years.,culture;change;values
+,WM,"Yeah, I  I did get a donation request, so I assume they are, but, the reason Farmhouse was so vibrant back in the 60s, 50s and 60s, was we had a ... university professor that was ...  took the bull by the horns and really lead them. And then once he passed away it, they didn't really find anybody to replace him.",culture;change;values;family
+,MB,"It makes it hard when there is no like, leaders left.",culture;change;values
+,WM,"I understand that ... the reason they disbanded was not because of hanky panky or anything, they just ran out of people.",culture;change;values
+,MB,"Yeah, there's a lot of fraternities on campus now so the smaller ones are running out of people.",culture;change;values
+,WM,So ... yep.,culture;change;values
+,MB,Is there anything else that you would like to talk about?,education
+,WM,"What's the purpose, I mean what do you hope to, to come out with at the end of this, some kind of statistical ... indication or statistical measure of how attitudes have changed or or something like that?",education
+,MB,"I think we might look at that, the main thing was to like teach us how to conduct an oral history, and then since we were learning about the 60s it just made sense to like, do it on that. And then I think at the end we'll all like compile ours together and then put them into the archives so other people could like, look at them for reference.",education
+,WM,"Talk about military and attitudes, been thinking about this let's see, I took ROTC up here, and got my butter ballers when I graduated. But I ... see Idaho is a land grant college, which means that they are obligated to teach military.",sociallife;war
+,MB,"Oh, okay.",sociallife;war
+,WM,"That's one of the requirements for being a land grant college. Military and mechanical orders, which mean that they gotta teach engineering. And ... in 1962, the year before I came up here, it was required that all freshmen and sophomores had to take ROTC.",sociallife;war
+,MB,"Oh, okay.",sociallife;war
+,WM,"And I was in army ... the army ROTC program the year before I got here, had 600 male students that were taking basic ROTC. My advisor, Art Finley at the crop science department encouraged me to sign up for ROTC, which I did. And in 1963 they went from 600 to 36.",sociallife;war
+,MB,Wow.,sociallife;war
+,WM,"Which I think is indicative of the ... reluctance and maybe back handed way of saying that they didn't approve of what the US was doin' and want no part of it. So ... but the advantage of it was, they treated us 36 like royalty. We didn't have six o'clock formations and we didn't have to wear the uniform all day and just in other words they ... didn't want to lose anybody.",sociallife;war;vietnam
+,MB,You guys got the special treatment.,sociallife;war;vietnam
+,WM,Yeah... and that would have been a big difference.,sociallife;war;vietnam
+,MB,"That does seem like it would be a big difference, going from like, that's a very drastic change in numbers.",sociallife;vietnam;change
+,WM,"Well, we went down 95%.",sociallife;vietnam;change
+,MB,"Yeah, yeah well interesting. I never thought about the Vietnam War that much, even though my uncle, he fought in the, in the war but I never knew him, so I just have not really heard that much about it.",vietnam
+,WM,"One of my favorite stories about Vietnam, you'll get my quirky sense of humor with this, I hope.I spent ... two years during the Vietnam War in the military, and I was stationed down at Fort Rucker Alabama which is right down in the corner where Georgia and Florida and Alabama come together. And they say you know 'what-what you do during the Vietnam War?', well I protected southern Alabama, and I was so good not a single Vietcong attack occurred down there.",vietnam
+,MB,Was there anything else?,
+,WM,Nope.,
+,MB,"Kay, that was all my questions that I had for you.",
+,WM,"Aren't you not interested in what Moscow was like, aren't you interested in ...",childhood
+,MB,"Oh yeah ...  didn't even think of going on that, yeah how was Moscow and U of I like during that time?",culture
+[00:17:57],WM,"Smaller. I think we were about 6-7 thousand students then, so that's about half the size you are now. I think we were more isolated, because a large number of students lived on campus, so ... but .... we were kinda in a world to our own.",culture;education
+,MB,What was your favorite part about living in Moscow during this time?,culture
+,WM,"Well it had been my home for, I mean I essentially, I lived here for 15 years 16 years before I went in to the university so it was home. And I got a home cooked meal once a week so ...",childhood
+,MB,Pretty nice. So you grew up in Moscow? How was that?,childhood
+,WM,"Well, small town... again just you know you had your cadre of associates, fellow students ... I went to school here for 12 years before I went to university, and there were a large number of kids in my class that went here 12 years, so we basically grew up together.",childhood;education
+,MB,Were the students in Moscow like mostly from Moscow ID or were there a lot of people from like out of state or different places?,education
+,WM,"Looking at the ones I knew, course I was in the ag school but very few Moscow kids, most of them, a lot of them were Idaho kids but they came from... all the way from Bear Lake to Bonner's Ferry. .... So where are you from?",education
+,MB,I'm from Boise.,education
+,WM,"So, we had a fair number from Ada County so ...",education
+,MB,Were there a lot of like international students or was it mostly like northwest?,educationculture
+,WM,"Undergraduate was primarily uh Americans. Graduate students, a very large percentage were international. I think the same is true today isn't it.",education;culture
+,MB,"Yeah, I think there is a really lot of international grad students.",education;culture
+,WM,"But most of your classmates I assume, you're what a sophomore, junior, senior?",education
+,MB,I'm a senior.,education
+,WM,Senior. I assume most of your classmates are uh American citizens.,education;culture
+,MB,[nods],education;culture
+,WM,I don't think that's changed much.,education;culture
+,MB,"What was the like ... campus community like? Did like the community support each other like was, just what was the vibe of campus?",culture
+,WM,"You know I was in a fraternity ... so fraternities tended to operate at a different sphere than the GDI's. And ... one story about the Pitman Center here, my roommate, his name was Jim Johnson, ran for ASUI president, practically won. But he had a campaign, campaign gimmick he always wore a red tie. That was his, his way of being recognized, so we decided that we would cut out little red ties and pin them on all of the campaign posters of the people he was running against. ",culture
+,WM,"So, we started going up all the campaign posters here, and it was the sub then, next thing we knew here came all the janitors and administrators says, 'what are you doing?' oh putting red ties on 'em, so he says 'get outta here'. So just that kind of shenanigans.",culture
+,MB,Has anything like on campus like changed significantly since you've been here? Like new buildings or like new ...?,change
+,WM,"The athletic complexes ... the Kibbie Dome was relatively new when I got here, they didn't have the swim center. They of course didn't have the basketball center.... I think that was significantly different than the, a whole bunch of new buildings, Theophilus Tower wasn't here then, that apartment complex they're on what was that 6th and line or whatever it is.",change
+,MB,"Oh, like the LLC's?",change
+,WM,"Yeah, whatever you call it. The university classroom center had just been built, and it was brand new. Art and architecture was still in the old Lewis Gym. You know building wise it's changed considerably but outside of what did you, what do you have 12,000 students here now?",change
+,MB,Something like that.,change
+,WM,"So, it's, that's doubled. Student wise, well you know math courses I think are still the same as are the physics, so I don't know about your social studies courses but...",change
+,MB,What was your favorite part of living on campus?,culture
+,WM,"Fact that it was a family. You know, did things together which we needn't go into.",culture;family
+,MB,How - so you went to Montana for your grad school?,education
+,WM,Montana State.,education
+,MB,"How was that, like in difference to Moscow?",education;change;culture
+,WM,"Oh, university wise they were about the same size at that time, maybe Montana State was a hair bigger. Bozeman was about same size as Moscow, so physically, it was very similar but ... whereas you're involved with an eclectic number of people as an undergraduate so you're very concentrated, so basically, I had a core group of maybe three or four people, five people that we were all graduate students together under Bob Eslick. That was the social end of it. But I will say this about Montana State you see the fishing's a hell of a lot better than it is here in Idaho.",education;change;culture
+,MB,"Did you get, did you go fishing a lot?",culture
+,WM,"I, second year I was there three of us got together and rented a house. Paid 150 bucks a month for it, $50 apiece and that pretty well took care of all of our spending money and so we lived on, one of the guys shot a deer so then we would go out, and you could fish you around there, on those rivers and we lived on venison and fresh trout for the whole year.",culture
+,MB,"Wow. How was the, like was the community different in Montana?",culture
+,WM,"You know Montana, was rural, the word cowboy comes to mind. They, you know they had working cowboys around there. Moscow has an agricultural base, it doesn't have an animal agricultural base, it's a crop base, and they're different breeds of cats.",culture
+,MB,Did that change your experience there?,culture;change
+,WM,"Well, the fact I was a graduate student, you, you know as an undergraduate student your social center is your fellow students. Your graduate students is your major professor and the other people in the department and your research associates, so you're dealing with older people, more mature people, not necessarily more sane but ...",culture;change;education
+,MB,"Where did you prefer to live, like did you like Moscow better or did you like Montana?",culture;change
+,WM,"I grew to like Montana better I think, it was like I said it was, if you like the outdoors, you're only 190 miles from Yellowstone Park and some of the best fishing streams in the continental US are within a half hour drive from your dorm room so, if that's what you're interested in. I think the University of Idaho was a little more cosmopolitan, more culturally oriented.",culture
+,MB,"Um, you're living in Moscow now.",adulthood
+,WM,Right.,adulthood
+,MB,"How, do you like Moscow more like now or did you like Moscow better back then?",adulthood;change
+,WM,"Oh, I don't know, it's different, I basically kicked around the world, I was a barley breeder, I made new varieties of barley, and wheat. And I was in charge of barley breeding programs in Canada and the United States, I worked as a barley breeder in England for a while, then I was in charge of research for wheat and barley development for USAID loan and the Republic of Korea. And then I came back here, started my own little company with my parents so you know, I came back here primarily to raise my son so there's, you know there's some ill influences in other parts of the world.",adulthood
+,MB,"I don't know what else to ask, you could add anything?",
+,WM,"Well, I didn't know what you're after, but I think what you're after is the political changes.",
+,MB,Doesn't have to be.,
+,WM,"But uh, I think that's about it.",
+,MB,Awesome.,
