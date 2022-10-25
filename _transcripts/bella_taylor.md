@@ -1,7 +1,7 @@
 ---
 object-id: bella_taylor
 title: Bella Taylor
-date-interviewed:September 23, 2022
+date-interviewed: September 23, 2022
 location: Moscow, ID
 av_source: soundcloud
 audiovideo-id: hqbJ4
