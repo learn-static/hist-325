@@ -8,7 +8,7 @@ layout: default
 {%- comment -%} find all words used in the subject metadata {%- endcomment -%}
 {%- assign min-count = 1 -%}
 {%- assign raw-subjects = items | map: "tags" | compact | join: ";" | split: ";" -%}
-{%- capture subjects -%}{% for s in raw-subjects %}{% if s != "" %}{{- s | strip -}};{% endif %}{%- endfor -%}{%-
+{%- capture subjects -%}{% for s in raw-subjects %}{% if s != "" %}{{- s | strip | downcase -}};{% endif %}{%- endfor -%}{%-
 endcapture -%}
 {%- assign subjects = subjects | split: ";" -%}
 {%- assign uniqueSubjects = subjects | uniq | sort -%}
@@ -54,8 +54,9 @@ endcapture -%}
             {% endfor %}
             {%else%}
             {% for filter in filters %}
-            {%if uniqueSubjects contains filter.tag %}<option value="{{ filter.tag | slugify }}">
-              {{filter.description | capitalize}} ({{filter.tag}})
+            {% assign tag = filter.tag | downcase %}
+            {%if uniqueSubjects contains tag %}<option value="{{ tag | slugify }}">
+              {{filter.description}} ({{filter.tag}})
             </option>{%endif%}
             {% endfor %}
             {%endif%}
