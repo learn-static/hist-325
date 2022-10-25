@@ -1,6 +1,6 @@
 ---
-object-id: katseanes_faith
-title: Faith Katseanes Interview
+object-id: bowman_rich
+title: Rich Bowman Interview
 date-interviewed: October 5, 2022
 location: Moscow, ID
 ---
