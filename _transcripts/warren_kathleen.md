@@ -1,6 +1,7 @@
 ---
 object-id: warren_kathleen
 title: Kathleen Warren
+interviewer: Rebecca Mills
 date-interviewed: September 27, 2022
 location: Moscow, ID
 ---
