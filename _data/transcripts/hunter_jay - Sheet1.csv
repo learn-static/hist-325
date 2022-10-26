@@ -1,0 +1,205 @@
+timestamp,speaker,words,tags
+,Emilie Baeth-Walter,Perfect so let's just start off with your name.,
+,Jay Hunter,Jay hunter,
+,EBW,Jay Hunter and you said you were tired now?,
+,JH,Just retired a year ago.,
+,EBW,What did you do?,
+,JH,I was an ER physician for about 41 years enlisted.,
+,EBW,"That's cool, that's cool. Okay um, alright let's just get right to it, is that ok? Alright do you have any questions for me before we start?",
+,JH,No.,
+,EBW,"Okay alright, so what music or artists were you listening to in the '60s?",music
+,JH,"So the first group that was really enthralled with, I was just a little bit too young for Elvis...",music
+,EBW,Yeah.,
+,JH,"... yeah and it was the Beatles. So first junior high dance I went to we danced to beat The Beatles, the premier album their first album in the US.",music
+,EBW,"I love that. Umm, and off that question do you think music was primarily about partying or about social change? Um especially civil rights or the anti war movement?",music;war;socialmovements
+,JH,I would say mostly about social change and a lot of the anti-war movement.,music;war;socialmovements
+,EBW,Could you like elaborate on that? Like what was the feeling?,
+,JH,"The Vietnam War probably defined a lot of the '60s. It was, I mean I think Korea was the first undeclared war, but it was run under the auspices of the UN if I'm correct and it only lasted three years. And by the time I was high school looking at draft age, we were deeply involved in Vietnam. Escalating I think you know probably by 1967 or 8 everybody knew that it was not a winnable war. We wondered why we were there, and retrospect you're looking at how Hachiman and things, that's even more questionable why we've got involved. But just this gradual so as undeclared and unlike the undeclared wars now, which I also don't think much of there was a draft so there were not volunteers people were being taken against your will who did not wanna fight, did not believe in the war, did not wanna be there except for Vietnam. And the casualty figures by compared with Iraq war, I mean hundreds of people killed every week.",music;war;socialmovements
+,EBW,"Yeah, uh were you draft age?",draft
+,JH,"I was not, I still was under student deferment when I started the U of I in 1969. So, so if you went to college full time you had a 1-S or 2-S, I can't remember.",draft
+,EBW,"Yeah, I think it's like 2 something.",
+,JH,"Yeah, and that ended beginning of my junior year.",draft
+,EBW,Okay.,
+,JH,"They got rid of the student deferment and they uh... but by that time the war was clearly winding down, the US beginning to withdrawal and was not a big issue.",draft
+,EBW,"So you didn't have to, I guess you necessarily didn't have to worry about being drafted because you had the student deferment.",draft
+,JH,"Not really. My number was 160 or something in the middle of the calendar, and the US was at the peace table by the time. They took the 1-SD turned them away and it was clear that we were... we were leaving Vietnam by that time.",draft
+,EBW,Did you have friends that got drafted?,draft
+,JH,I personally did not know anyone that got drafted. I knew a lot of people went to college just to avoid the draft.,draft
+,EBW,"Yeah, um I guess going back to music, is there a band or song that you think captured the feeling of the era on an emotional level for you?",music
+,JH,"Umm, gosh that would be hard to uh... you know I think like ""All Along the Watchtower,"" by Jimi Hendrix. And I can't remember the artist but there's one called ""War"" and Arlo Guthrie's ""Vietnam"", you heard that song?",music
+,EBW,"I've heard ""Fortunate Son"" CCR [Creedence Clearwater Revival].",
+,JH,"""One, two, three, what are we fighting for? Don't ask why we don't give a damn.""",
+,EBW,"Yes I have, yeah.",
+,JH,Led Zeppelin was also the beginning of the psychedelic era. There's a lot of experimentation with LSD. And Led Zeppelin was... when you really like to listen to it if you were taking shrooms.,music
+,EBW,"Yeah, more socially. So like CCR ""Fortunate Son"" type things.",
+,JH,CCR was more of a party...,music
+,EBW,Yeah.,
+,JH,"But yeah, but like drink beer and put on Creedence Clearwater Revival.",music
+,EBW,What were your thoughts on the Vietnam War? I know you weren't technically...,vietnam
+,JH,I thought it was a total waste of people. I mean it was even worse for the Vietnamese than it was us. It was misguided and it was a big mistake. And I thought after the tragedy of the Vietnam War the US would learn their lesson but apparently we haven't.,vietnam
+,EBW,Did it change how you felt about America as a global leader entering into Vietnam? Did it change your viewpoint?,vietnam
+,JH,"It was also a time with... so in early '60s the big thing was communism was gonna take over and we were scared because the Russians put the first satellite in orbit, the Russians put the first man in space and it's like we've got to catch up. And so there was a little bit of that pride in America you know landing on the moon in '69, the year I graduated from high school. It's also [cough]...",
+,EBW,No you're fine.,
+,,"... a major source of pride for the US, and so there's a lot of hope I think for the US just...  The Vietnam war really made us anti-military and anti-government. I mean not the, not the soldiers. We didn't hate the people that drafted and went to Vietnam. But you know if I was shut down I could see myself doing some years of service, it wouldn't be my first choice, but I wouldn't be totally opposed to it. But back then it was no way, no way would I ever wanna be in the military or any association with military.",
+,EBW,So hateful feelings towards the military?,values
+,JH,"We were just talking, my son and I went to the football game this weekend and we saw a big picture of Dr. Green, and they were cheering when he came on.",
+,EBW,Yeah.,
+,JH,"And I don't know why I was talking, I saw it happen when ""Wilson Hurst Had a Hard Time"" was printed when I was in school in the late '60s. The students had rallies supporting hard time it was really a unique rally because schools across the nation, the administration building were being occupied by protesters and ... and we had a president everybody liked so supporting him.",family;socialmovements
+,EBW,That's cool.,
+,EBW,What social movements were you aware of at the time?,socialmovements
+,JH,"Well civil rights would be the big one. That Martin Luther King was assassinated when I was a junior in high school. Senior year probably Kennedy. Bus rides to Mississippi. But we didn't have a lot of it here because Idaho is such a jar of mayonnaise. Very few blacks in you know... so we didn't have the racial [issues]. There are other racial issues. There was prejudice against the Indians, Native Americans. Subtle but not over. I can remember when George Wallace, standing on the news, standing on the steps to the University of Alabama swearing he would not allow black students. The riots, the Black Panther movement, but also blacks and Bobby Seale and yeah. It wasn't right here, but it was part of the culture and those were social movements wherever whether it was the antiwar movement.",civil rights;segregation;
+,EBW,Did you guys talk about them a lot?,
+,JH,Yeah.,
+,EBW,"Like in, I guess school like how today we would talk about abortion rights 'cause that's a big thing for us right now. And the presidential campaigns we would talk a lot about in school.",socialmovements
+,JH,"Yeah, well I was a chemistry major, in most of my classes we didn't talk about politics.",
+,EBW,Well like amongst your friends though.,
+,JH,"Yeah, yeah oh definitely. We thought... we felt a lot... a lot of togetherness for maturing us. So we all had similar ideas, we all had similar thoughts about the pressures of the South and all over. The discrimination laws, the war...",
+,EBW,Were you guys mainly against it up here?,
+,JH,Yeah.,
+,EBW,Yeah?,
+,JH,Oh totally.,
+,EBW,"Really okay, well I wouldn't know.",
+,JH,"So it's kinda like if you go to university right now, how many people are still supporting Trump? Not very many because... I mean I don't know.",Politics
+,EBW,"It's true, it's just I live in rural, more rural Idaho, so a lot more Trump supporters and what not.",
+,JH,Well I lived in Troy and worked in Lewiston. So there's a lot of support for him in Idaho.,Politics;Childhood
+,EBW,"Oh I thought you meant Montana [Troy, Mt]. Libby, Montana is where my family is from.",
+,JH,Where did you grow up?,
+,EBW,"My family grew up, well is from Libby, Montana. But my dad lives in Bayview, Idaho and my mom lives in Spokane, Washington.",
+,JH,"Oh, okay.",
+,EBW,"So a little all over, but mainly Pacific Northwest.",
+,EBW,"So back to social movements, how did your parents or community feel about them? So were there a lot of like parents that were agreeing with you or do you...?",socialmovements
+,JH,"My parents didn't talk, they weren't very political. My grandparents had pictures of the Kennedy's on their wall. so we were quietly liberal and democratic i think. But politics wasn't uh, you know my wife's family was very republican and they were very over talking about things in life. That, that my family just politics was polite and you didn't talk about it and argue with people about it.",socialmovements;Politics
+,EBW,Interesting yeah I really like that aspect.,
+,JH,"Oh, I do too.",
+,EBW,"How did you feel about their leaders? So like SNCC, and like MLK, and like Malcolm X, and stuff like that. Did you agree with them? Did you think some were more radical?",socialmovements
+,JH,"I didn't know that much about Malcolm X. I read Martin Luther King certainly. I agreed with him, with the philosophy that followed Gandhi.",
+,EBW,Are you familiar with SNCC?,
+,JH,No.,
+,EBW,It's S-N-C-C.,
+,JH,What does it stand for?,
+,EBW,"Oh, Southern New Christian...",
+,JH,Actually I'm not.,
+,EBW,"Okay, interesting. Um yeah, there were a lot of them involved, but that's weird that it didn't reach up here that much. 'Cause we're talking about it now obviously in our class.",
+,EBW,"Alright, okay so today we have stereotyped images of hippies and the counterculture, or Vietnam soldiers and those protesting them, did you fill any of these roles? By chance were you like...",sociallife;culture
+,JH,"Yeah, so these roles are the hippie or the...",
+,EBW,"Yeah hippie, any of the stereotypes.",
+,JH,"I was influenced by the hippie culture probably. Yeah, again we're a little bit isolated here in Northern Idaho. So winds of change blow a little across the top of us. But still, it's part of the culture and... yeah we just, I... we were pretty typical high school kids in the '60s probably. I didn't really drink like things, but I did with the mobile library that came around from Spokane Library, I did read Timothy Leary's book on LSD, got interested and...",sociallife;culture
+,EBW,Yeah [both laughing].,
+,JH,By the time I was a senior in high school I was talking about things we'd like to experience.,
+,EBW,"Interesting, okay. So you would classify yourself I guess as a hippie, as in that stereotype?",
+,JH,"Not completely. Yeah, probably much closer to hippie than military person.",
+,EBW,What do you think was the best aspect of the '60s?,values
+,JH,"You know, the problem is we all look back at the years. I started the '60s at nine years old and 1971 turned 20's. So that was my years where we all look back, and with fondness. So those are that childhood and high school memories and the college memories with all your friends and everything was kind of idealized overtime. But I think one of the nice things, I was thinking about it on the way over here, were the nice things about the '60s around here was... the small towns were more complete. You know people that live in say, Troy or Genesee, and commute to work [modern day], everything was done there. so I grew up in Troy which always had 555 people. There's an old joke about the reason small town population never changes. It's that every time a girl gets pregnant the guy leaves town. Anyway with a population less than 600 we had you know, lumber supply, hardware stores, gas stations, mechanic supplies, farming, restaurants. So really didn't have to leave town for anything other than if you wanted to buy furniture, or maybe a television, or a car. And so people, even though I grew up in Troy, rarely came to Moscow to shop. Because who would waste 35 cents a gallon just to go to Moscow? It was a close knit small community, people had been there for a longtime. And we never locked our doors. We left on rare Vacations for a week, and we left  the doors to the house open. People left the keys in ignition.",childhood
+,EBW,Really?,
+,JH,"Yeah. One of my friends recently said, ""Of course I left my keys in the pickup. What if the neighbor wanted to  borrow it and I wasn't home?"" You know, just because of some strange person going into your house, it would be seen by the neighbors. so it's just never worry about car theft. I never... I never saw a fistfight between people from the time I was in grade school to the time I graduated from high school. I mean that's how sort of safe and inviting the environment was. I grew up in a neighborhood of eight or nine boys around the same age, and their parents were like secondary parents to me. we got in trouble we were, you know did things. but why I was always inhibited because Betty and Clyde or Burt and Mary down the street. I might disappoint them too because they're like my parents. I didn't want to be too out of line.",
+,EBW,Yeah.,
+,EBW,"So it's just really... and of course there was no Internet,no computer. and the cars were not very reliable, and flat tires frequently, and the gas gauge, and it could run out of gas. And sometimes it wouldn't start in the morning. So we weren't nearly as mobile, so it's more of a... not strictly but like the Andy Griffith show. Everybody kind of knew each other and even though not everybody got along, nobody hated each other. People are pretty tolerant of [each other].",childhood
+,EBW,"Everybody knew everybody's business pretty much, is stuff like that?",
+,JH,"And now with the more mobile society, with the... my parents had the grocery store Troy with my Uncle's family, I don't think the grocery store could make it now 'cause people are driving out within 15 minutes.",
+,EBW,So the town is not like that anymore?,
+,JH,"No, the town has lost a lot of things. That's  because a lot of people live there but commute so they're not quite... there's still community spirit, but not quite community spirit. Kendrick for example is just far enough away from Lewiston, it's not quite as easy to do that. So they have a nice grocery store, I think they kept their sense of community more. Genesee is probably more of a commuter camp now too.",change
+,EBW,"So you say like mobility, like easier access?",
+,JH,Yeah it's mobility and people just... [pause],
+,EBW,So like people back then I guess everybody kind of supported everyone like you know?,
+,JH,Yeah well...,
+,EBW,You bought groceries...,
+,JH,"We knew each other, everything about each other.",
+,EBW,"But like, in this sense that like businesses...",
+,JH,"Party lines were like for five families in the same line. You picked up the phone, you can hear your neighbor.",
+,EBW,"Really? I love that. What do you wish America, American Society still possessed about that culture?",culture;change
+,JH,"I right now, the biggest thing I wish they possessed was civility and tolerance to people with different ideas. As a liberal we're just as bad as the Trump conservatives who we hate so much. So probably just need to stop and consider the other. We need to be more civil in politics.",politics
+,EBW,I find that too.,
+,JH,"You know in the '60s Tip [O'Neill] the old speaker of the house would get up and shout and argue with one of the Kennedy's on the 7th floor over a bill and they would violently oppose each other, then they'd gone to dinner at night. And it was the same way, again like my parents weren't political so we liked people totally different. Hell well I worked with, I worked with doctors that were totally-total conservatives, but I knew personally I liked them and they liked me and politics never made us just dislike each other and we were still socially interactive. I wish the whole country was more like that.",politics;culture
+,EBW,"That is a really refreshing point of view, especially, yeah I think a lot of people are caught up in that.",
+,JH,"Again, part of the problem is confirmation bias is it, you know if you believe or people believe that Ivermectin cures Covid, which there's good science that says it doesn't do anything. But I think people on the Internet find all these sites and find you know one infectious disease doctor out of 200 that believes it probably because their political beliefs and then they grab onto that and they read more things on their favorite more things.",
+,EBW,So you think like...,
+,JH,"Yeah, it's unfortunately the Internet instead of broadening our education, allows us to narrow it.",culture;education
+,EBW,No fact checking.,
+,JH,"Yeah, so we could we could just read the things that we agree with and strengthen our beliefs, and straight from the fact that other people are totally wrong about it.",
+,EBW,"So you think the Internet has kind of more separated the two parties, whereas like before you're saying like they could like have a civil conversation or not but then later they can meet up? But today is more of a civil conversation and then they don't talk to each other at all and they argue.",politics
+,JH,"It's hard to dislike somebody when you meet them personally. Most people, most people you meet, find things to like. And if their views are really different than yours about how things should be run in America you can still deal with it. Make it pass over their specific views. But if you're typing away, on the internet it's easy, it's easy to type, you know the old days you had to write a letter.",
+,EBW,"Yeah, a lot more personal.",
+,JH,"If you were mad at somebody you would write this letter, ""you son of a bitch"" you know, 'never wanna see you again' and they get to the mail the next day, and by the next day they'd say 'I don't think I wanna do that.'",sociallife
+,EBW,Yeah.,
+,JH,And now you can type it just put it in and it's there.,
+,EBW,And you have like anonymous [tries to pronounce anonymous] I guess.,
+,JH,Yeah with anon[ymous] you can be a total butthead. And nobody knows who you are.,
+,EBW,"What can you remember about your education during the era? So do you think it was more... like restricted? Like what they wanted you to learn? You know, I'm saying something along those lines?",
+,JH,"I remember, I never really thought that but I was, I was heavily into sciences and mathematics. So it's, I've never felt like somebody was trying to push political view on me.",
+,EBW,"Interesting. It's a big difference from right now everybody is thinking that everybody has an agenda in what sense. Especially in Idaho. What sort of information were you learning in your classes? I know that you said you were more science but could you remember like history, or english, or topics?",education
+,JH,"You know, I was one of those unfortunate kids in high school, the coach who didn't like to teach was the one assigned to teach history and government. And he taught it so poorly I hated those subjects, like never. They could be great fascinating subjects now, well I watch or read something straight, but I disliked it so much I didn't ever take a course in college.",education
+,EBW,Really?,
+,JH,"It's true. I took a History of Religions and I'm trying to think but you know it's been a long time. I think if I were to take any other history courses. I took some English Literature. No, I don't think I ever took a history course.",
+,EBW,That's interesting.,
+,JH,"So there were gaps in my education. I look back on that. If I was going to do it over again I would learn a language for one thing, probably Spanish.",
+,EBW,Did you guys not have a required language to learn back then?,
+,JH,"We didn't, you know.",
+,EBW,"Yeah, I took German for four years.",
+,JH,Really?,
+,EBW,Yeah.,
+,JH,"Yeah, I think I feel now that Spanish should be taught routinely through grade and high school with options to learn other things too just because of the makeup of America.",
+,EBW,"Yeah, I, in hindsight I probably should have chosen Spanish, but as a history major and I'm especially interested in European culture I chose German. And it was fun, I loved it.",
+,JH,"We were in Costa Rica a couple months ago and my daughter-in-law speaks pretty good Spanish, and I was just thinking, oh God I just wish. In fact I was just thinking I should go back and sign up for Spanish classes at the University. The problem is I'm 71, the chance to be living in a Spanish speaking area is practically zero.",adulthood;education
+,EBW,"Well you could travel I guess. I have friends that only know how to say can I please have chicken fingers in Spanish. So when they go down south, they just order chicken strips. They just don't know anything else.",
+,JH,"I just, I just need to know how to order a beer and where's the bathroom?",
+,EBW,Well that's about the only thing I know in German. Wo ist das badezimmer? That's all you need. Where's the bathroom?,
+,EBW,"That's interesting, do you think like that, do you wish that they would have had that requirement for you back then?",
+,JH,"Yes, it's one of the big holes of my knowledges, one of the big things I wish I knew how to speak a foreign language.",
+,EBW,What was required in high school?,
+,JH,"Oh my high school didn't have language offered.  We had a Spanish teacher one year, but that's the only year we had a Spanish teacher. and there was something like 17 people in my graduating class.",education
+,EBW,17 people?,
+,JH,17,
+,EBW,I had five hundred!,
+,JH,"Yeah, so I mean school was so small. We had good teachers because we were close to the university and we had a lot of people who finished teaching degrees. And if there was a job open they would come and teach. But, we just didn't have any diversity. The entire time I was at school 16 years or one year we had a Spanish teacher so.",
+,EBW,"Interesting, yeah we had French, Spanish, and German, and I know of other schools that have Chinese Mandarin. I bet there's Italian out there, but yeah. Is there anything else you'd like to add by the '60s or anything like that? I'm interested in literally everything, I just had some questions I was required to ask as well.",
+,JH,Any questions you have?,
+,EBW,This is a free for all moment.,
+,JH,"Well those were my formative years, all those memories of the '60s. They were a lot of fun, with college.",childhood
+,EBW,What made you choose U of I?,
+,JH,I'm a third generation U of I. My son in the library is 4th generation.,family;education
+,EBW,That's cool.,
+,JH,"My younger son ran off to New York University instead. So, although he did get an honorary PhD from University of Idaho a couple years ago.",family
+,EBW,"That's cool, so just kind of like it just made sense.",
+,JH,Yeah.,
+,EBW,Same here.,
+,JH,Do you have a long history of family going to the U of I?,
+,EBW,"My step mom and my sisters went here. And in Washington, because I went to high school in Washington, and I felt like I didn't wanna follow the path that everybody else was there. AKA going to WSU or Eastern Washington University, and Idaho just, it felt like home down here.",
+,JH,"So my father was a sophomore I think when Pearl Harbor was attacked. So he was called up with his guard unit and spent three years in the Pacific of the Philippines in New Guinea. And came home probably early 1944 and he had enough time and didn't have to go back. So he married, and then they finished [college]. So a lot of college kids came back from the war at that time, then married. Finished his couples, that's what my parents did. Dad taught for a while and he didn't like it, so he went into business. So they had friends that also were in the same unit that all survived the war. Some of my early memories of the '60s were, 'cause World War II had not ended too many years ago.",family;war
+,EBW,Yeah.,
+,JH,"They would get together and have dinner and afterwards all [and] everybody smoked, oh then they'd get together and smoke cigarettes and flick ashes onto their pants cuffs. And [they] talk about the war. Like how much fun it was about, ""Oh remember when we decided not to sleep in the hammocks and the Japs strafed all our hammocks that night? And they blew up the cook tent. We were so hungry we ate dirt. Oh yeah that was fun! Remember when the pilots mistook us for Japanese on the beach and strafed us and almost got killed?'",war
+,EBW,Things like that?!,
+,JH,"Oof, yah!",
+,EBW,"Interesting, the stories you must have heard.",
+,JH,"They brought home a Japanese style of rifle, a bunch of coins, and a bloody flag.",
+,EBW,Oh my gosh.,
+,JH,"So they uh, but also the '60s was the time of over-prejudice. You know Jim Crow laws were still. My parents were, I don't think of them as prejudiced, but we drove through Lapoiea, through the reservation. The conversation is, 'oh see that Cadillac, three or four Indian families will buy that Cadillac in their limited shacks just so they could drive a nice car.' There was that kind of subtle prejudice. There was an occasional black athlete at university, like the running back, or can't remember the name. But there were virtually no blacks. I mean I don't think I saw a black person until I was in college.",discrimination
+,EBW,Really?,
+,JH,"There was a family that lived up by Deary when I was in grade school - high school that were black. The only black people probably in Latah county. And sometimes in the spring on Sundays after church nothing to do, so take a drive in the country and see the wildflowers out sometimes say 'can we drive by Deary, you can see if the black people were out.'",diversity 
+,EBW,Because there's no diversity?,
+,JH,"It wasn't like we don't like them, it's like curiosity. We had friends that were red haired like you and they went to China in the '80s when it first opened up. And they said they were mobbed by Chinese. They had never seen a red-haired person. They wanted to touch their skin, touch their hair.",
+,EBW,Was it segregated here or just the no diversity that it didn't really need to be?,segregation
+,JH,Was it what?,
+,EBW,"Like segregated, to like white and colored bathrooms, and sinks, and what not like that.",
+,JH,They were not around here.,
+,EBW,More South for sure.,
+,JH,"That was all the South. So there were never segregated restrooms. But the tolerance was fairly low. Like when I started college the style was to grow your hair out. And I had long hair and facial hair. nobody had facial hair, you know after World War II and into the '60s. A friend of mine, we owned a grocery store with my uncles family, my cousin was a year older than me. He had a friend from Spokane that came down once when we were in high school late '60s and we were stocking shelves so he decided to help us. but he had a beard, a neatly trimmed beard and pretty soon we're called and my cousin's father said, 'you know I think you guys should leave because people won't come into the store with that bearded guy, they think he's a hippie.' I was working after my freshman year of college summer back in '70, working in a green warehouse of Troy just cleaning peas, and wheat, and putting it into burlap 100 pound bags, and stacking box cars. And school approached and I didn't want to get a haircut, so my hair was barely over my ear. Boss looked at me one day and said, 'Get your haircut or don't come to work tomorrow.' I mean we didn't even have any contact with public.",segregation;culture
+,EBW,Really?,
+,JH,That's how strict intolerant things were.,
+,EBW,Did you ever think about like you know the Mississippi bus rides or like going down South and joining the movements or trying to like look up into...,socialmovements
+,JH,That kind of happened just as I was starting college. Gosh what year that was...,
+,EBW,"Oh like, '60? It was all like '63 I feel like to early '70s.",
+,JH,"But it was by the time I got to college, yeah quite frankly we all think that we would do something like that. Very few of us would have had the courage to do that, I mean that was... we would all like to think we're wonderful people and we would have joined in the bus ride with the buses, but most of us wouldn't. I don't know what would have happened.",
+,EBW,Yeah.,
+,JH,"Yeah like what would happen if I was on a battlefield, would I be one of those people that whimpered and wet my pants? Or would I actually fight and advance?",socialmovements
+,EBW,"Yeah, fight or flight response.",
+,JH,"You don't know until you're in the situation, so the opportunity never came up here. Never thought about it, I don't know. Yeah, I don't know if I'm brave enough. It took a lot of courage to ride those buses.",socialmovements
+,EBW,"It did, it wasn't... it wasn't just part of... because my curiosity into it was did people like join just because everybody else was doing it 'cause it was like... I don't wanna say like a trend, but because like you know they seem like the cool thing to do",
+,JH,"Well yeah, those people who rode the buses were for sure.",
+,EBW,"Well yeah, those for sure. But like I'm talking like SNCC and other groups like that, like college students were leaving to go down and I was wondering, you know like was it more of a trend 'cause like oh John's doing it seems cool I'll do it or were they really believing in it?",
+,JH,"Yeah, I don't know.",
+,EBW,I don't know either.,
+,EBW,"That's why I like history though, I love the cultural side of history. So yeah, alright well that is all I have if that's good with you?",
+,JH,"Ah, I'm fine.",
+,EBW,"Okay, perfect, let me pause.",
+,,,
+,,"This interview was conducted at University of Idaho in the Administration Building. Jay Hunter is a University of Idaho graduate, who grew up in Troy, Idaho and recently retired from being an EMT. Topics discussed were culture and social movements of the 1960s' as well as hometowns. Attendance of University of Idaho was discussed, along with personal family details of the interviewee.",
