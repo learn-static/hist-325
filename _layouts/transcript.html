@@ -54,8 +54,8 @@ endcapture -%}
             {% endfor %}
             {%else%}
             {% for filter in filters %}
-            {% assign tag = filter.tag | downcase %}
-            {%if uniqueSubjects contains tag %}<option value="{{ tag | slugify }}">
+            {% assign tag = filter.tag | slugify %}
+            {%if uniqueSubjects contains tag %}<option value="{{ tag }}">
               {{filter.description}} ({{filter.tag}})
             </option>{%endif%}
             {% endfor %}
@@ -118,7 +118,7 @@ endcapture -%}
               ":"}}:</span>{% endif %}{% endunless %}{{item.words}}
           </p>
           <div class="col-12 col-md-2 timestamp mb-3 small text-center">{%if item.timestamp%}{% if page.av_source %}
-            {% capture avlink %}timestamp/{{page.av_source}}.html{% endcapture %}
+            {% capture avlink %}timestamp/{{page.av_source | downcase }}.html{% endcapture %}
             <a href="{% include {{avlink}} %}">{{item.timestamp}}</a>{% else %}{{item.timestamp}}{% endif %}{% endif %}
           </div>
         </div>
