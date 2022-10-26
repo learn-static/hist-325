@@ -1,6 +1,6 @@
 ---
-object-id: bella_taylor
-title: Bella Taylor
+object-id: lenellen_mcinturff
+title: LeNelle McInturff
 date-interviewed: September 23, 2022
 location: Moscow, ID
 av_source: soundcloud
