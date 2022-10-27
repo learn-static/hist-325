@@ -1,5 +1,5 @@
 ---
-object-id: lenelle_mcinturff
+object-id: mcinturff_lenelle
 title: LeNelle McInturff
 interviewer: Bella Taylor
 date-interviewed: September 23, 2022
