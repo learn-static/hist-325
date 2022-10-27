@@ -1,6 +1,7 @@
 ---
 object-id: lenelle_mcinturff
 title: LeNelle McInturff
+interviewer: Bella Taylor
 date-interviewed: September 23, 2022
 location: Moscow, ID
 ---
