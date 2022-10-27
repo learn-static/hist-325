@@ -1,7 +1,8 @@
 ---
 object-id: aiken_katherine
 title: Katherine Aiken
-interviewer: 
-date-interviewed: September 29, 2022
+interviewer: Claudia Selmer
+date-interviewed: September 15, 2022
 location: Moscow, ID
 ---
+
