@@ -35,13 +35,14 @@ layout: cover
         {% assign height_float = height_integer | times: 1.0 %}
     {% assign rect-height = 100 | divided_by: height_float  %}
     {%assign transcript-name = transcript[0] %}
+    {% assign int-title = site.transcripts.transcript-name.title %}
     <div class="vizdiv" style="height:{{rect-height}}%">
-      <a href="{{ '/transcripts/' | append: transcript-name | append: '.html' | relative_url }}"><svg class="chart {{transcript-name}}" width="100%" height="20" style="overflow: visible">
+      <a href="{{ '/transcripts/' | append: transcript-name | append: '.html' | relative_url }}"><svg class="chart {{transcript-name}}" width="100%" height="20" style="overflow: visible" data-toggle="tooltip" data-placement="top" class="" title="" data-bs-original-title="{{int-title}}" aria-label="{{int-title}}">
         {% for item in transcript[1] %}
         {% assign my_integer = forloop.length %}
         {% assign my_float = my_integer | times: 1.0 %}
         {% assign rect-width = 100 | divided_by: my_float  %}
-          <rect x="{{forloop.index0 | times: rect-width }}%" y="20" width="{{rect-width}}%" height="50" data-toggle="tooltip" data-placement="top" class="{{item.tags | replace: ';', ' '}}" title="{{ item.words }}{% if item.tags %}(Subjects: {{ item.tags | replace: ';', ', ' }}){%endif%}"></rect>
+          <rect x="{{forloop.index0 | times: rect-width }}%" y="20" width="{{rect-width}}%" height="50" data-toggle="tooltip" data-placement="top" class="{{item.tags | downcase | replace: ';', ' '}}" title="{% if item.tags %}(Subjects: {{ item.tags | replace: ';', ', ' }}){%endif%}"></rect>
         {%endfor%}</svg></a>
     </div>{%endfor%}
    </div>
