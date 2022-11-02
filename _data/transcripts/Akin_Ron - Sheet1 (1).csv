@@ -1,0 +1,55 @@
+timestamp,speaker,words,tags
+,Christian Akin,OK so we'll start with what year were you born and where?,
+,Ron Akin,1948 Placerville CA.,childhood
+,CA,"So, what age range would that have made you during the 1960s?",
+,RA,Well 48. I would have been 12 in 1960.,childhood
+,CA,OK so you were a child for the most part during the 60s.,
+,RA,"Well, I graduated high school in 66. Went to the military in 66.",childhood
+,CA,Throughout the 60s how would you best describe yourself and what characterized your values at the time?,
+,RA,Work ethic from my dad probably. I mean everything that I did was based on what he taught me so what was the question again how do I characterize.,sociallife
+,CA,How would you best describe yourself in the 60's and then what characterized your values at that time?,
+,RA,Well obviously I was youthful I mean just graduated high school in the mid-60s.,sociallife
+,CA,"So, what was the broader culture like in your community growing up was there any big changes that you were aware of?",
+,RA,"Not really. You know Templeton and Paso Robles were very small towns there was very little. Are you talking nationally, internationally, or just in town.",sociallife
+,CA,Sort of national. All the events that were going on during the 60s. How aware of them were you living in a small rural town?,
+,RA,"I didn't follow politics a whole lot, but the Vietnam War was going on and I joined and went over there.",Vietnam
+,CA,"I'll just jump to the Vietnam questions then. Were you drafted, or did you volunteer?",
+,RA,"I volunteered. I had three brothers. Two already in the Air Force and one in the Marine Corps, so I joined the Air Force.",Vietnam
+,CA,"If you care to explain, what were some of your experiences that were most memorable in the military?",
+,RA,"I mean for the most part other than Vietnam it was like a regular job. You get up and go to work and you go home and it's like being an employee anywhere else. It wasn't difficult at all. Vietnam wasn't difficult for me. I was a power production specialist and I worked on diesel generators and providing power to the base because our all of our equipment was a different voltage than the equipment at the voltage that they use over there, so we had to produce our own power but again that was pretty much like a regular job too. Other than rocket attacks and gun fire and that type of stuff I didn't do any combat.",Vietnam
+,CA,"So even though you viewed your military service as a job, while you were over in Vietnam did how you felt about America as a global leader change through your experiences?",
+,RA,"No, not at all.",Vietnam;opinion
+,CA,Were your thoughts on communism then still the same as they are now?,
+,RA,Yes.,communism;opinion
+,CA,Was there any civil rights movements or maybe the introduction of the counterculture or you know anything pertaining to that time period? Was there any major historical events that you remember seeing on the news? Where there any of them that impacted you?,
+,RA,"I can't remember the date, so I don't know if the work of Martin Luther King was in the 60s or not. You know I don't know. It didn't really affect us much because we weren't exposed to a lot of that. For one in the military, you know. I'm trying to think of anything that was substantial other than Martin Luther King I can't remember. I remember some of the music from the 60s, but I don't remember much about the political climate",civilrights
+,CA,Was there any music or artist that you listened to especially?,
+,RA,"I was always a fan of country western music, so I didn't really listen to a whole lot of the popular stuff. Certainly, I don't think rap was out there. Heavy metal I did not like, but I think that was probably more in the 70s. Still don't like it. The Mamas and the Papas and Creedence Clearwater, people like that, I would listen to stuff like that.",music
+,CA,Listening to country western and stuff like that did you think that music was at that time a primary tool for promoting social change or do you think it was kind of just mainly for entertainment purposes?,
+,RA,I think in that time especially country western was just for entertainment. I didn't see any indication anyone was trying to create any social change,music
+,CA,"Besides you mentioning Martin Luther King, was there any other kind of social movements that you were aware of at that time?",
+,RA,"You'd had to let me do a little homework to figure this out. That was a long time ago. I can't think of any Christian, you know, other than the equal rights movement I don't recall there being anything. Well, I don't know when the hippies started with the free love and all that Woodstock. I don't think that was in the 60s, but it could have been",socialmovements
+,CA,Did you have any interactions with some of that stuff or was it more just a distant thing?,
+,RA,"No, I didn't have any interaction with any of that. You talking about the free love and all that? The Hippie movement?",socialmovements
+,CA,Yes. Was there any movement or was there any sort of civil rights event in town that you might have gone to or walked by or maybe you walked by a protest or something?,
+,RA,"There really wasn't any protesting in the areas where I had been. I lived in, for a brief period, San Bernardino California which was a fairly big city. I don't recall any kind of protests and people weren't protesting. This wasn't commonly done in those areas.",socialmovements
+,CA,"Well in your opinion what has changed the most since the 1960s maybe as far as society goes family values, and then what things are more or less the same?",
+,RA,"well, I don't think anything is the same. Family values have almost completely disappeared. Respect for authority is nearly completely gone and in a lot of settings. The lack of respect in the country in terms of even saying the Pledge of Allegiance in a classroom, the lack of the ability to discuss any sort of religion classrooms is deteriorating the country. So, in my opinion, nothing is the same and none of it has changed for the better.",change
+,CA,I do believe that was the majority of the questions that I had unless there's anything else about you living through that time that you felt was significant for people to know now?,
+,RA,"Well, you know I'm just kind of an ordinary person. I don't recall having anything happened to me, or anything I did and there wasn't particularly anything interesting or exciting. Just work and I went to work for the Sheriff's Department the same day I got out of the military. November 16th of 1970 one year into the 70s.",sociallife
+,CA,"Was there any experiences from your time as a sheriff that maybe had changed your perspective, or did you find yourself in any sort of run ins with some of these societal changes?",
+,RA,Well yeah we did. I mean there were the riots in Isla Vista during my ten years in the Sheriffs department. It was pretty much all out war. The cops against the protesters. That was the 70s.,socialmovements
+,CA,Any time during those protests did you ever think about why they were doing it did you have any experiences that might have changed your opinion on what they were doing or did you just kind of think it was wrong?,
+,RA,"Well obviously it was wrong because it was against the law, and I was there representing the law. But that whole movement, as far as I was concerned, was anti-war. Make Love not war that kind of thing you know.",values
+,RA,"I proudly went to Vietnam and served for my country because I was asked to. Not asked, I was told to. Lot of those people didn't like what was going on in the government and I can't say that I blame them. I don't like what's going on in the government today but I'm not going to go out and protest and burn down buildings and turn over police cars. There are other ways to accomplish those things and they're getting more and more difficult to accomplish because voting doesn't seem to be the answer.",values
+,CA,"So, would you say that during that time after the war and during your time as a sheriff that you found yourself getting more into politics because of some of the things you had seen?",
+,RA,"I don't think so much politics, you know. I mean we had a job to do and essentially I've always been a conservative so anything that was left wing I wasn't in favor of and still not.",values
+,CA,"Well, that's all the questions that I have for you, and I greatly appreciate your participation in my oral history project",
+,RA,"I'm happy to do it Christian I wish I had better answers. I just don't remember that time very well and if you think about graduating from high school and joining the military it's a radical change to your lifestyle so that four year period from 66 to 70 I was basically structured, and you're told what to do and when to be there and how long. You know you're not making a whole lot of decisions on your own.",opinion
+,CA,"Then it kind of seems like it sort of structured your life, you know, for the rest of your life.",
+,RA,"I still write things organized, you know, kind of in a straight line. If things are crooked I'll straighten them up. I don't mean people. I just mean like things on the shelf or on a table or something like that like. I will line them up. I don't know if that's from the military or it's just because I'm OCD or anal retentive or something like that. I don't know. I hope that this helps.",values
+,CA,"Definitely. I mean for the most part it's really any perspectives that help. You know there are some people who can talk your ear off for hours and then there are others, where like you said yourself, for the most part focused on working but I feel like from the sounds of it you at least had some experiences. Probably your time in the military and being a sheriff kind of helped you realize that there's a law and order that should be followed and when we look back at the 60s we don't necessarily see that. We see that shift from that 1940s and 1950s very structural, patriarchal families then we start seeing a big shift.",
+,RA,Yeah that's true. Up into the 70s it really started getting bad.,opinion
+,CA,Well great thank you for answering my questions and providing us with some of your perspectives from the 1960s and 1970s.,
+,RA,"You're welcome Christian, glad I could help.",
+,Bio,"I Interviewed my grandfather, Ron Akin, about what was life like while growing up in the 60s and 70s. The interview covered topics such as growing up in rural communities, music, The Vietnam War, and time as a sheriff during social revolutions. Born in 1948, in Placerville California, Ron was in middle school and high school from 1960 to 1966. Immediately after school Ron joined the military and was shipped to Vietnam. As a power supply specialist, he did not see much combat but rather viewed his military service as a job. After the military Ron joined the San Bernardino Sheriff's Department where he experienced the Isla Vista Riots in 1970. Living in rural areas, Ron described himself as a simple person who focused on work and not so much the social issues of the time period.",
