@@ -1,6 +1,7 @@
 ---
-object-id: earl_fishburn
+object-id: fishburn_earl
 title: Earl Fishburn
+interviewer: Faith Fishburn
 date-interviewed: September 23, 2022
 location: Heppner, Oregon
 ---
